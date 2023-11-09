@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className=" flex h-16 items-center justify-center border-b-2">
       <div className="container flex  items-center justify-between">
-        <Link href="/">eder3232</Link>
+        <Link href="/">artukings</Link>
         {/* <div>items</div> */}
         <ModeToggle />
       </div>
